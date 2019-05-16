@@ -16,4 +16,4 @@ cd GUIautomation
 autogui.py
 ```
 ## Screenshot
-![alt text](\img\screenshot.png)
+![alt text](img/screenshot.png)
