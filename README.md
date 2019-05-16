@@ -11,9 +11,7 @@ cd Guvi-ReportCard-PowerBI-Template
 * Run the python GUI file:
 ```sh
 cd GUIautomation
-```
-```sh
-autogui.py
+python autogui.py
 ```
 ## Screenshot
 ![alt text](img/screenshot.png)
