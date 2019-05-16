@@ -11,6 +11,7 @@ cd Guvi-ReportCard-PowerBI-Template
 * Run the python GUI file:
 ```sh
 cd GUIautomation
+pip install -r requirements.txt
 python autogui.py
 ```
 ## Screenshot
