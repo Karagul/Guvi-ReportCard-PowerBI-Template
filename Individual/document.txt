@@ -1,0 +1,10 @@
+// default browser = edge
+// need previous codekata
+// need phone number column
+// sort names column in ascending order
+// create copies of codekata and previous codekata
+// create rising column in queries
+// create rank column
+// create performance conditional column
+// use checkPosition.py to check mouse position
+// change values in new.py (automation)
